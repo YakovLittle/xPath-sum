@@ -1,0 +1,7 @@
+05-Nov 17:19:50 [155] Total sum: 7.0 for: <Item><Name>Test</Name><Price>5.0</Price><Count>2.0</Count></Item>
+05-Nov 17:19:50 [165] Total sum: 0.0 for: <Item><Name>15</Name><Price>-15</Price></Item>
+05-Nov 17:19:50 [175] XML-Parse-error: sum cannot be calculated for "<Item <Name></Name><Price>-15</Price></Item>"
+05-Nov 17:19:50 [175] XML-Parse-error: sum cannot be calculated for " "
+05-Nov 17:19:50 [175] Total sum: 12.0 for: <Items><Item><Name><![CDATA[Title]]></Name><Price>5</Price></Item><Item><Name>02</Name><Price>5.0</Price></Item></Items>
+05-Nov 17:19:50 [175] Total sum: 12.0 for: <Items><Item><Name><![CDATA[10]]></Name><Price>-5</Price></Item><Item><Name>02</Name><Price>5.0</Price></Item></Items>
+05-Nov 17:19:50 [176] Total sum: 20.5 for: <html><head><title>Test</title></head><body><Test>3</Test><div id="foo"><h6>bug</h6><h6>9.5</h6><h6>3</h6><h6>5</h6></div></body></html>

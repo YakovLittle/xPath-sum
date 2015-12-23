@@ -1,0 +1,7 @@
+<Item><Name>Test</Name><Price>5.0</Price><Count>2.0</Count></Item>
+<Item><Name>15</Name><Price>-15</Price></Item>
+<Item <Name></Name><Price>-15</Price></Item>
+&nbsp;
+<Items><Item><Name><![CDATA[Title]]></Name><Price>5</Price></Item><Item><Name>02</Name><Price>5.0</Price></Item></Items>
+<Items><Item><Name><![CDATA[10]]></Name><Price>-5</Price></Item><Item><Name>02</Name><Price>5.0</Price></Item></Items>
+<html><head><title>Test</title></head><body><Test>3</Test><div id="foo"><h6>bug</h6><h6>9.5</h6><h6>3</h6><h6>5</h6></div></body></html>
